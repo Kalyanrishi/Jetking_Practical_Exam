@@ -1,0 +1,23 @@
+How to create an NFT's on Ethereum Blockchain
+ 
+1)Go to Opeansea Website.
+2)Click on the create button in the top right corner to Opensea.
+3)Connect your Ethereum wallet and connect to Opensea.
+4)Go back to the create button and click on My collections.
+5)Upload a file, create a description and add a name.This allows you to configure collections,Select the appropriate name, description and image need for collection.
+6)Add a banner image to the screen and begin creating NFT's.
+7)Click on the Add new item and sign to wallet again.This time,you well see page that allows you to upload pictures and images.
+8)Opensea allows you to add special traits and characteristics to make NFT.
+9)Once your done, click on create button,sign in to your wallet, and conform the creation.
+          NFT added to the collection.
+
+
+How to list and sell NFT's on Ethereum blockchain 
+
+1)To list and sell NFT's first login to marckrtplace, Open your collection and locate the NFT wish to sell.
+2)Select the NFT and click on sell button where you get to pick the price and mode of sale.
+3)You could decide to sell at fixed price or run at an auction.
+4)Choose the token you want to be paid in.On Opensea, you can only receive Ethereum and other ERC-20 tokens.
+5)Click on edit button to determine the token to be paid in.
+6)We can decide royaltites on the NFT.This means that a portion of the selling price will be sent to creator of NFT if it sold in future.
+7)Confirm your setting and your NFT are for sale on marketplace.
